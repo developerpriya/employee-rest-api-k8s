@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/developerpriya/employee-rest-api.git
+    repoURL: https://github.com/developerpriya/employee-rest-api-k8s.git
     targetRevision: HEAD
     path: dev
   destination: 
